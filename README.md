@@ -14,6 +14,16 @@
 | **High-end GPU** | ASUS ROG Strix RTX 4090 OC (24GB) | Top-tier local inference / render headroom | [Amazon](https://www.amazon.com/dp/B0BGT61797?tag=blockie71009-20) |
 | **Flagship GPU** | NVIDIA RTX 4090 Founders Edition | Reference 4090, max VRAM for AVX2/AI pipelines | [Amazon](https://www.amazon.com/dp/B0BJFRT43X?tag=blockie71009-20) |
 
+## ⚡ Daily Drivers / Consumables (what I actually run on)
+
+| Item | Product | Why I recommend it | Buy |
+|---|---|---|---|
+| **Energy** | Monster Energy Ultra Zero (all flavours) | Sugar-free, zero-crash — my coding fuel | [Amazon](https://www.amazon.com/dp/B0BL7316GD?tag=blockie71009-20) |
+| **Drink** | Arizona Iced Tea (variety) | Cheap, real-tea, big cans | [Amazon](https://www.amazon.com/dp/B08JM9FZP5?tag=blockie71009-20) |
+| **Phone** | Samsung Galaxy S24 Ultra | My daily — S-Pen, 200MP, DeX workstation | [Amazon](https://www.amazon.com/dp/B0CMDM65JH?tag=blockie71009-20) |
+| **OS** | Microsoft Windows 11 Pro | What my build runs; BitLocker + Hyper-V | [Amazon](https://www.amazon.com/dp/B09X11M88J?tag=blockie71009-20) |
+| **Snack** | Pop Corners White Cheddar | Low-mess keyboard-safe snack | [Amazon](https://www.amazon.com/dp/B08D7JXG87?tag=blockie71009-20) |
+
 ## 🎚️ Audio Routing (freeware — no affiliate, just good tools)
 
 - **Voicemeeter Potato** — advanced virtual audio mixer. [Site](https://vb-audio.com/Voicemeeter/potato.htm)
