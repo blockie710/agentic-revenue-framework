@@ -9,6 +9,7 @@
 | Component | Product | Why I recommend it | Buy |
 |---|---|---|---|
 | **CPU** | AMD Ryzen 9 9950X (16C/32T, Zen 5) | Best price/perf for parallel DSP + agent workloads | [Amazon](https://www.amazon.com/dp/B0D6NNRBGP?tag=blockie71009-20) |
+| **CPU** | AMD Ryzen 7 7800X3D (8C/16T, 3D V-Cache) | Best gaming/$ + great for build-only agents | [Amazon](https://www.amazon.com/dp/B0BTZB7F88?tag=blockie71009-20) |
 | **GPU** | PNY GeForce RTX 4070 Ti 12GB VERTO | My daily GPU — quiet, efficient Ada Lovelace | [Amazon](https://www.amazon.com/dp/B0BQHWP6Q1?tag=blockie71009-20) |
 | **Motherboard** | ASUS TUF Gaming X670E-Plus WiFi | My board — 16 power stages, PCIe 5.0, rock-solid AM5 | [Amazon](https://www.amazon.com/dp/B0BDTJFHKJ?tag=blockie71009-20) |
 | **High-end GPU** | ASUS ROG Strix RTX 4090 OC (24GB) | Top-tier local inference / render headroom | [Amazon](https://www.amazon.com/dp/B0BGT61797?tag=blockie71009-20) |
