@@ -21,6 +21,8 @@
 | **Energy** | Monster Energy Ultra Zero (all flavours) | Sugar-free, zero-crash — my coding fuel | [Amazon](https://www.amazon.com/dp/B0BL7316GD?tag=blockie71009-20) |
 | **Drink** | Arizona Iced Tea (variety) | Cheap, real-tea, big cans | [Amazon](https://www.amazon.com/dp/B08JM9FZP5?tag=blockie71009-20) |
 | **Phone** | Samsung Galaxy S24 Ultra | My daily — S-Pen, 200MP, DeX workstation | [Amazon](https://www.amazon.com/dp/B0CMDM65JH?tag=blockie71009-20) |
+| **Phone** | Samsung Galaxy S25 Ultra | Successor to my S24U — incremental camera/AI gains | [Amazon](https://www.amazon.com/dp/B0DP3GQ4QY?tag=blockie71009-20) |
+| **Phone** | Samsung Galaxy S26 Ultra | Latest flagship — newest silicon, maxed specs | [Amazon](https://www.amazon.com/dp/B0G4SW3XXP?tag=blockie71009-20) |
 | **OS** | Microsoft Windows 11 Pro | What my build runs; BitLocker + Hyper-V | [Amazon](https://www.amazon.com/dp/B09X11M88J?tag=blockie71009-20) |
 | **Snack** | Pop Corners White Cheddar | Low-mess keyboard-safe snack | [Amazon](https://www.amazon.com/dp/B08D7JXG87?tag=blockie71009-20) |
 
