@@ -1,0 +1,7 @@
+# Pricing / unit-economics parameters (re-parameterize freely).
+blended_gross_margin_pct: 93.4
+blended_ltv_cac_ratio: 95
+avg_price_per_agent_usd: 330
+compute_cost_ratio_start_pct: 6.6
+llm_price_deflation_per_yr: 0.10
+efficiency_gain_per_mo: 0.03

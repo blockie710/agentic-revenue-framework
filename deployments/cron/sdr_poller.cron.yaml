@@ -1,0 +1,5 @@
+version: "1.0"
+schedule: "*/15 * * * *"
+job: sdr_poller
+command: "python3 src/orchestrator/sdr_agent.py"
+notes: "Autonomous SDR loop. Flip to live after DRY_RUN validation (Day 11)."

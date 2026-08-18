@@ -1,0 +1,31 @@
+# Agent stream definitions for the autonomous revenue pipeline.
+# Each stream maps to a source-level agent + a cron poller.
+sdr:
+  name: "Autonomous B2B SDR Agent"
+  price_monthly_usd: 499
+  compute_per_run_usd: 0.02
+  runs_per_month: 200
+  cac_usd: 120
+  monthly_churn: 0.030
+  liability: low
+  mode: zero_human
+
+code_patch:
+  name: "Autonomous Code Maintenance & SecOps Agent"
+  price_monthly_usd: 299
+  compute_per_run_usd: 0.05
+  runs_per_month: 100
+  cac_usd: 150
+  monthly_churn: 0.025
+  liability: medium
+  mode: hitl_merge_gate   # sandbox PRs, human approves high-risk diffs
+
+content:
+  name: "Programmatic Niche Content & Micro-SaaS Portfolio Manager"
+  price_monthly_usd: 199
+  compute_per_run_usd: 0.015
+  runs_per_month: 400
+  cac_usd: 90
+  monthly_churn: 0.035
+  liability: low
+  mode: zero_human

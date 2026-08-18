@@ -1,0 +1,5 @@
+version: "1.0"
+schedule: "*/30 * * * *"
+job: content_poller
+command: "python3 src/orchestrator/content_agent.py"
+notes: "Content + monetize_link loop. Low liability, zero-human."

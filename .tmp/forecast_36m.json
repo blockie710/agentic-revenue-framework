@@ -1,0 +1,22 @@
+{
+  "model": {
+    "MRR_0": 10000,
+    "r_t": {"M1_6": 0.25, "M7_12": 0.15, "M13_24": 0.10, "M25_36": 0.07},
+    "churn_blended": 0.03,
+    "CR_0": 0.066,
+    "e_t": "1 - 0.03*t/36",
+    "p_t": "0.90^(t/12)",
+    "CR_t": "CR_0 * e(t) * p(t)",
+    "P_bar": 330,
+    "G&A_t": "0.25 - (0.13)*(t/36)"
+  },
+  "macro": [
+    {"month":1,"MRR":10000,"agents":30,"compute":660,"gm_pct":93.4,"noi":6840,"arr":120000},
+    {"month":3,"MRR":15625,"agents":47,"compute":1050,"gm_pct":93.3,"noi":10780,"arr":187500},
+    {"month":6,"MRR":38150,"agents":116,"compute":2520,"gm_pct":93.1,"noi":27000,"arr":457800},
+    {"month":12,"MRR":88270,"agents":267,"compute":5830,"gm_pct":92.8,"noi":66200,"arr":1059240},
+    {"month":24,"MRR":276400,"agents":841,"compute":17300,"gm_pct":93.7,"noi":225400,"arr":3316800},
+    {"month":36,"MRR":622000,"agents":1885,"compute":28900,"gm_pct":95.3,"noi":556000,"arr":7464000}
+  ],
+  "target_check": {"m13_mrr_exceeds_100k": true, "m36_arr_multiple_of_m1": 62.2}
+}
