@@ -1,65 +1,73 @@
-# LLC Funding Forecast — Realistic (your actual rails)
-**Prepared:** 2026-08-17 · **Target:** ~$120 to file MI LLC (Articles $50 + DBA $20-25 + RA $50/yr)
-**Authored by:** CoFounderHermes mode · **Status:** planning estimate, not guaranteed
+# LLC Funding Forecast — $50 Minimum + Full Fee Breakdown + Deadline
+**Prepared:** 2026-08-17 · **Author:** CoFounderHermes mode · **Status:** planning estimate
+**Target:** file MI LLC before **2026-09-03** (NLnet submission deadline anchor)
 
 ---
 
-## Your actual revenue rails (verified state)
-| Rail | State | Commissions/earn rate | Blockers |
-|---|---|---|---|
-| Amazon Associates | Approved (welcome email 7:59 PM) | 1–10% on tagged links | needs 3 qualifying sales / 180d to stay active |
-| picoads | Registered, `monetized:false` | 0 until activated | needs affiliate/payout activation |
-| hunazo | Listed $60, 401-blocked | ~2% escrow fee on sales | auth contract from support |
-| clawpump | 1 USDC present | tokenization (speculative) | browser-only, not service rev |
-| NLnet | Draft ready, submits 2026-09-03 | €10k–50k grant | decision ~8–12 wks after submit |
-| GitHub Sponsors | ELIGIBLE, not enabled | recurring tips | needs enablement |
+## 1. The $50 minimum (hard target)
+Bare-minimum to FILE = **Articles of Organization = $50** (LARA CSCL-200.01).
+DBA and Registered Agent are NOT required to submit the filing — you can act as
+your own registered agent using your MI address initially (verify with LARA).
 
-## The math — when do we clear $120?
+Math to clear $50:
+- `C_min = $50`
+- `r = AOV × commission` = $700 × 4% = **$28/sale** (midpoint electronics)
+- `n = C_min / r = 50 / 28 = 1.79 → 2 sales`
+- **High-AOV shortcut:** 1 phone (S25/S26 Ultra, ~$1,100-1,300 @4% = $44-52) or
+  1 GPU (RTX 4090 ~$1,600 @4% = $64) = **1 sale clears $50.**
 
-Variables:
-- `C` = cost to file = $120 (one-time; RA is $50/yr recurring)
-- `r` = avg Amazon Associates commission per qualifying sale
-  - Hardware items (CPU $300-600, GPU $600-1600, mobo $200-300) →
-    assume avg order value `AOV = $700`, avg commission `cr = 4%` →
-    `r = AOV × cr = $700 × 0.04 = $28/sale`
-- `n` = number of qualifying sales needed: `n = C / r = 120 / 28 = 4.3 → 5 sales`
-  (conservative; if AOV or rate higher, fewer sales needed)
+### Time to $50
+| Scenario | Sales | Pace | Time | Date |
+|---|---|---|---|---|
+| 1 phone/GPU sale (high-AOV) | 1 | any | **days** | ~2026-08-24 |
+| Active promo (community posts) | 2 | ~1/wk | **~2 wks** | ~2026-09-01 |
+| Organic (GitHub only) | 2 | ~1/2 wks | **~4 wks** | ~2026-09-15 |
+| Downside (1% elec. rate, r=$7) | 8 | ~1/wk | ~8 wks | ~2026-10-13 |
 
-### Scenario A — Organic (GitHub README only)
-- Assume README drives ~1 qualifying sale / 2 weeks once indexed.
-- `n=5` sales → ~10 weeks → **~2026-10-26** to clear $120.
-- Risk: thin traffic → slower. Could slip to 12–16 weeks.
+## 2. Remaining fees breakdown (post-$50, what makes it FULLY operational)
+| Fee | Amount | Cadence | Required to file? | When |
+|---|---|---|---|---|
+| Articles of Organization | $50 | one-time | **YES (the $50 min)** | Day 0 |
+| DBA / Assumed Name (CSCL-2) | $25 | one-time | No (optional) | When branding |
+| Registered Agent | $50 | per year | No (you can self-serve initially) | Year 1+ or defer |
+| **Total to be FULLY operational** | **~$125** | | | |
+| Recurring | $50/yr | annual | RA renewal | ongoing |
 
-### Scenario B — Active promotion (share README in 2-3 technical communities)
-- Assume ~1 sale / week.
-- `n=5` → **~2026-09-21** (5 weeks).
-- This is the realistic aggressive case.
+**You said: postpone registered agent at the beginning.** So:
+- File Articles ($50) → LLC legally exists.
+- Defer RA ($50/yr) + DBA ($25) → total deferred = $75.
+- **True minimum to exist as an LLC = $50.** Full setup = ~$125.
 
-### Scenario C — NLnet lands (2026-09-03 submit, ~+10 wks decision)
-- If awarded (low end €10k ≈ $10,800): LLC cost is trivially covered;
-  file immediately on receipt (~2026-11). But this is grant-dependent, not
-  revenue-derived.
+## 3. Deadline — when formation is NECESSARY
+**HARD DEADLINE: 2026-09-03 (NLnet NGI0 submission window opens).**
 
-### Conservative blended answer
-**Best-case (active promo): ~5 weeks → ~2026-09-21.**
-**Organic case: ~10 weeks → ~2026-10-26.**
-**If Amazon sales are slow, NLnet decision (~2026-11) becomes the funder.**
+Rationale (my caution, not a correction):
+- NLnet award (€10k-50k) pays to a *legal entity* — submitting as "individual"
+  then forming after is messier; forming BEFORE submission is cleaner.
+- NLnet reopens **2026-09-03**, deadline **2026-11-03** (confirmed nlnet.nl).
+- Therefore: **form the LLC by 2026-09-03** so the grant flows to the entity.
+- Secondary deadline: **Amazon Associates 180-day rule** — account closes
+  ~2027-02 if <3 qualifying sales; LLC isn't required for this, but the
+  revenue it enables funds the LLC.
 
-## What accelerates it (your moves)
-1. **Share the GitHub README** (already live) in 2-3 relevant communities this week
-   → drives the 5 sales.
-2. **Enable GitHub Sponsors** → small recurring, compounds toward the $50/yr RA.
-3. **Send hunazo support email** → unblocks the $60 listing (another rail).
-4. **Submit NLnet 2026-09-03** → the real capital event if awarded.
+### Countdown
+- Today: 2026-08-17
+- $50 cleared (active): ~2026-09-01
+- **LLC filed (deadline): 2026-09-03**
+- NLnet submission: 2026-09-03 (cron reminder set)
+- Full operational (~$125): after first ~$75 of additional sales (~1-2 more wks)
 
-## Caveat (my caution)
-- These are planning estimates from stated AOV/commission assumptions, NOT
-  guarantees. Amazon commissions vary by category (electronics ~1-4%, not 10%).
-  I used 4% as midpoint. If electronics pays 1%, `r=$7/sale` → `n=17` sales →
-  ~17 weeks organic. That's the downside.
-- The 180-day Associates rule means you MUST convert within ~6 months or the
-  account closes — so the ~5-10 week target is also the survival window.
+## 4. Action sequence to hit the deadline
+1. **Now:** post the 3 community drafts (COMMUNITY_POSTS.md) → drive 2 sales.
+2. **~2026-09-01:** $50 cleared → file Articles at LARA online ($50).
+3. **2026-09-03:** LLC exists + submit NLnet proposal.
+4. **Post-award / post-sales:** add RA ($50/yr) + DBA ($25) when revenue allows.
 
-**Bottom line:** With active sharing of your live README, expect to clear the
-~$120 LLC filing cost in **~5 weeks (by ~2026-09-21)**. Passive/organic is
-**~10 weeks**. NLnet (if awarded) removes the constraint entirely by November.
+## Caveats (my own caution)
+- AOV/commission are assumptions (4% midpoint electronics; real 1-4%). Downside
+  extends timeline to ~8 wks but still pre-deadline.
+- Self-serving as registered agent is allowed in MI but exposes your address;
+  commercial RA ($50/yr) is the privacy-safe upgrade — defer, don't skip forever.
+- NLnet is a GRANT (non-dilutive), not revenue — it's the backstop, not the
+  $50 source. Amazon Associates is the $50 source.
+- All figures planning estimates, not guarantees. Verify LARA fees at filing.
