@@ -56,6 +56,10 @@ lock-free, AVX2 SIMD, zero-copy. Native ImGui/Skia (anti-Electron).
 - Kit (preferred): https://blockie710.kit.com/products/cpp20-audit-pack
 - Stripe: https://buy.stripe.com/8x28wO6TmgVicio0DW0oM00  ← **LIVE** payment link ($49, one-time)
 
+> **X thread (live):** posted as a 2-part thread. Short version for reuse
+> (189 chars, under X's 280 limit):
+> `My rig: Ryzen 9 9900X + PNY RTX 4070 Ti + ASUS TUF X670E-Plus WiFi + 64GB DDR5 + 990 EVO 2TB. Zero bloat (native ImGui). Tagged list: https://github.com/blockie710/agentic-revenue-framework`
+
 Deliverable README: `#audit-pack` in this repo.
 
 ---
