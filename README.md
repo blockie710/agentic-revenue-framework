@@ -8,7 +8,7 @@
 
 | Component | Product | Why I recommend it | Buy |
 |---|---|---|---|
-| **CPU** | AMD Ryzen 9 9950X (16C/32T, Zen 5) | Best price/perf for parallel DSP + agent workloads | [Amazon](https://www.amazon.com/dp/B0D6NNRBGP?tag=blockie71009-20) |
+| **CPU** | AMD Ryzen 9 9900X (12C/24T, Zen 5) | My daily CPU — parallel DSP + agent builds | [Amazon](https://www.amazon.com/dp/B0D6NNRBGP?tag=blockie71009-20) |
 | **CPU** | AMD Ryzen 7 7800X3D (8C/16T, 3D V-Cache) | Best gaming/$ + great for build-only agents | [Amazon](https://www.amazon.com/dp/B0BTZB7F88?tag=blockie71009-20) |
 | **GPU** | PNY GeForce RTX 4070 Ti 12GB VERTO | My daily GPU — quiet, efficient Ada Lovelace | [Amazon](https://www.amazon.com/dp/B0BQHWP6Q1?tag=blockie71009-20) |
 | **Motherboard** | ASUS TUF Gaming X670E-Plus WiFi | My board — 16 power stages, PCIe 5.0, rock-solid AM5 | [Amazon](https://www.amazon.com/dp/B0BDTJFHKJ?tag=blockie71009-20) |
@@ -38,5 +38,26 @@ I run autonomous agent pipelines (AaaS) for GLSL/ImGui audio-visual deliverables
 and agent-to-agent commerce. See the `agentic-revenue-framework` repo for the
 audit + 36-month forecast.
 
+## 💼 Hire Me — C++20 Zero-Alloc Audit Pack
+
+Principal audio & broadcast systems architect. Strict C++20, zero-alloc,
+lock-free, AVX2 SIMD, zero-copy. Native ImGui/Skia (anti-Electron).
+
+**What you get ($49, one-time):**
+1. Source-level C++20 audit report — strict AST/regex pattern analysis
+   (Python 3.13 tooling). **No compiler is run in this environment** — every
+   finding is verified by manual logic inspection + direct code review.
+2. Reusable `zero_alloc_checklist.md` you keep.
+3. Written fix plan (15-min read) with exact change sites.
+
+> Upsell: **Deep DSP Audit** ($149) — JUCE/audio-thread + real-time path review.
+
+**Buy / book:**
+- Kit (preferred): https://blockie710.kit.com/products/cpp20-audit-pack
+- Stripe: https://buy.stripe.com/8x28wO6TmgVicio0DW0oM00  ← **LIVE** payment link ($49, one-time)
+
+Deliverable README: `#audit-pack` in this repo.
+
 ---
+
 *Amazon Associates disclosure: I am an Amazon Associate and earn from qualifying purchases.*
