@@ -1,0 +1,30 @@
+# Baseline Secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+*wallet*
+*secret*
+*token*
+
+# Operating System Noise
+.DS_Store
+Thumbs.db
+*.Zone.Identifier
+
+# IDE & Editor Temporary State
+.idea/
+.vscode/*
+!.vscode/settings.json
+*.swp
+*.swo
+
+# Python Bytecode and Caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+venv/
+.venv/
